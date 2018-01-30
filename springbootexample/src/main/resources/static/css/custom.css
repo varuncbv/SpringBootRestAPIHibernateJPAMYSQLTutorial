@@ -1,0 +1,35 @@
+.form-container {
+  position:fiexd;
+  width:50%;
+  margin-left: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 20px;
+  background-color: #E8E1E1;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.floatRight{
+	float:right;
+	margin-right: 18px;
+}
+
+.has-error{
+	color:red;
+}
+
+
+.success{
+  position:fiexd;
+  width:50%;
+  margin-left: 50px;
+  margin-top:20px;
+  padding: 20px;
+  background-color: #E8E1E1;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tr:nth-child(even) {background-color: #f2f2f2;}
+
